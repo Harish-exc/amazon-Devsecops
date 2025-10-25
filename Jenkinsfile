@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        jdk 'jdk23git init'
+        jdk 'jdk23'
         nodejs 'node16'
     }
 
